@@ -11,7 +11,7 @@ Hello! I'm Chandan, a final-year Computer Science Engineering student passionate
 ## 📫 Contact
 
 - chandankrr.91@gmail.com
-- [LinkedIn](linkedin.com/in/chandan-krr/)
+- [LinkedIn](https://www.linkedin.com/in/chandan-krr)
 
 ## 📚 Education
 
@@ -19,7 +19,7 @@ Hello! I'm Chandan, a final-year Computer Science Engineering student passionate
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](linkedin.com/in/chandan-krr/)
+- [LinkedIn](https://www.linkedin.com/in/chandan-krr)
 - [Twitter](https://twitter.com/_chandankrr)
-- [Instagram](https://www.instagram.com/_chandankrr/)
+- [Instagram](https://www.instagram.com/_chandankrr)
 - [Personal Website](https://personal-portfolio-chandankrr.vercel.app/)
