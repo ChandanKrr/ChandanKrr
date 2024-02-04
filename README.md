@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Chandan, a final-year Computer Science Engineering student passionate about coding, and an aspiring Software Engineer, based in India. I have a passion for Frontend and Mobile technologies, and I love working on React and React-Native. 
+Hello, I'm Chandan, a final-year Computer Science Engineering student based in India. I am passionate about coding, with a focus on Web and Mobile technologies. Proficient in Java and JavaScript, I am excited about transitioning from academia to the professional realm. Eager to contribute my skills and learn from real-world projects, I am aspiring to kickstart my career as a Software Engineer.
 
 
 ## 💻 Tech Stack
